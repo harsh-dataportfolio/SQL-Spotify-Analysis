@@ -51,5 +51,5 @@ Spotify is one of the world's leading music streaming platforms, generating vast
 
 ## 🖼️ Screenshot Preview
 
-![Spotify Project Preview](Insert_Your_Screenshot_Link_Here)
+![Spotify Project Preview](https://github.com/harsh-dataportfolio/SQL-Spotify-Analysis/blob/main/Sample%20Query%20ScreenShot.png)
 
